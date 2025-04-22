@@ -91,9 +91,9 @@ The goal is to:
 
 ---
 
-## 📬 Let's Connect
-For more details or collaboration opportunities:
-- 🔗 [LinkedIn - Cognifyz Technologies](https://www.linkedin.com/company/cognifyz-techonologies/)
-- 🌐 [www.cognifyz.com](http://www.cognifyz.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-arya786/)
 
 ---
+
+© 2025 **Restaurant Data Analysis Project** | All Rights Reserved
+
