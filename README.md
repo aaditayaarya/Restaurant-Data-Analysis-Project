@@ -28,11 +28,12 @@ The goal is to:
 
 ## 📁 Project Files
 
-| File Name                     | Description                          |
-|-------------------------------|--------------------------------------|
-| Restaurant Data Analysis.pdf | Project analysis in PDF format        |
-| Dataset.csv                  | Raw restaurant dataset                |
-| README.md                    | This documentation file               |
+| File Name                      | Description                          |
+|------------------------------- |--------------------------------------|
+| Restaurant Data Analysis.ipynb | Main Jupyter notebook for analysis   |
+| Restaurant Data Analysis.pdf   | Project analysis in PDF format       |
+| Dataset.csv                    | Raw restaurant dataset               |
+| README.md                      | This documentation file              |
 
 ---
 
